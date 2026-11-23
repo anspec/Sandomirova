@@ -1,0 +1,79 @@
+[
+  {
+    "image": "photo/featured-works/abstract-stained-glass-facade.jpg",
+    "story": "photo/featured-works/abstract-stained-glass-facade.txt",
+    "title": "Abstract Stained Glass Facade",
+    "meta": "Избранные работы",
+    "alt": "Abstract Stained Glass Facade"
+  },
+  {
+    "image": "photo/featured-works/interior-monumental-solution.jpg",
+    "story": "photo/featured-works/interior-monumental-solution.txt",
+    "title": "Interior Monumental Solution",
+    "meta": "Избранные работы",
+    "alt": "Interior Monumental Solution"
+  },
+  {
+    "image": "photo/featured-works/mosaic-assembly-featured.jpg",
+    "story": "photo/featured-works/mosaic-assembly-featured.txt",
+    "title": "Mosaic Assembly Featured",
+    "meta": "Избранные работы",
+    "alt": "Mosaic Assembly Featured"
+  },
+  {
+    "image": "photo/featured-works/author-glass-objects.jpg",
+    "story": "photo/featured-works/author-glass-objects.txt",
+    "title": "Author Glass Objects",
+    "meta": "Избранные работы",
+    "alt": "Author Glass Objects"
+  },
+  {
+    "image": "photo/featured-works/expo-85-tsukuba-glass.jpg",
+    "story": "photo/featured-works/expo-85-tsukuba-glass.txt",
+    "title": "Expo 85 Tsukuba Glass",
+    "meta": "Избранные работы",
+    "alt": "Expo 85 Tsukuba Glass"
+  },
+  {
+    "image": "photo/featured-works/vitrazh-botanical-ornament.jpg",
+    "story": "photo/featured-works/vitrazh-botanical-ornament.txt",
+    "title": "Vitrazh Botanical Ornament",
+    "meta": "Избранные работы",
+    "alt": "Vitrazh Botanical Ornament"
+  },
+  {
+    "image": "photo/featured-works/urban-serenity-stained-glass.jpg",
+    "story": "photo/featured-works/urban-serenity-stained-glass.txt",
+    "title": "Urban Serenity Stained Glass",
+    "meta": "Избранные работы",
+    "alt": "Urban Serenity Stained Glass"
+  },
+  {
+    "image": "photo/featured-works/glass-stone-sculpture-featured.jpg",
+    "story": "photo/featured-works/glass-stone-sculpture-featured.txt",
+    "title": "Glass Stone Sculpture Featured",
+    "meta": "Избранные работы",
+    "alt": "Glass Stone Sculpture Featured"
+  },
+  {
+    "image": "photo/featured-works/amber-light-panels-featured.jpg",
+    "story": "photo/featured-works/amber-light-panels-featured.txt",
+    "title": "Amber Light Panels Featured",
+    "meta": "Избранные работы",
+    "alt": "Amber Light Panels Featured"
+  },
+  {
+    "image": "photo/featured-works/mural-portrait-featured.jpg",
+    "story": "photo/featured-works/mural-portrait-featured.txt",
+    "title": "Mural Portrait Featured",
+    "meta": "Избранные работы",
+    "alt": "Mural Portrait Featured"
+  },
+  {
+    "image": "photo/featured-works/vitrazh-birds-composition.jpg",
+    "story": "photo/featured-works/vitrazh-birds-composition.txt",
+    "title": "Vitrazh Birds Composition",
+    "meta": "Избранные работы",
+    "alt": "Vitrazh Birds Composition"
+  }
+]

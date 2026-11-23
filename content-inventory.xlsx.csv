@@ -1,0 +1,112 @@
+key;photo;title;meta;lead;body
+site/title;;Тамара Владимировна Сандомирова — художник-монументалист;;;
+site/description;;;;;Монументально-декоративные решения для общественных и частных пространств: росписи, мозаики, витражи, авторские коллекции, объёмно-пространственные композиции со светом. Полный цикл проекта под одной ответственностью.
+header/logo;;Т. В. Сандомирова;;;
+hero/h1;;Монументально-декоративные решения для общественных и частных пространств;;;
+hero/subtitle;;Тамара Владимировна Сандомирова — художник-монументалист, руководитель проектов;;;
+hero/tags;;Росписи · мозаики · витражи · авторские коллекции · объёмно-пространственные композиции со светом;;;
+hero/cta;;Обсудить проект;;;
+hero/gothic-stained-glass-interior;gothic-stained-glass-interior;Gothic Stained Glass Interior;Hero — главный экран;;
+services/title;;Что создаю;;;
+services/lead;;;;Монументально-декоративные решения, интегрированные в архитектуру пространства;
+services/mural-painting;;Роспись;;Живопись на стенах, потолках и сложных архитектурных поверхностях;
+services/mural-painting/classical-mural-portrait;classical-mural-portrait;Classical Mural Portrait;Услуга — роспись;;
+services/mosaic;;Мозаика;;Долговечные фактурные панно из смальты, камня, стекла;
+services/mosaic/mosaic-panel-assembly;mosaic-panel-assembly;Mosaic Panel Assembly;Услуга — мозаика;;
+services/mosaic/monumental-mosaic-composition;monumental-mosaic-composition;Monumental Mosaic Composition;Услуга — мозаика;;
+services/stained-glass;;Витраж;;Световые акценты и зонирование через авторское стекло;
+services/stained-glass/botanical-glass-panel;botanical-glass-panel;Botanical Glass Panel;Услуга — витраж;;
+services/stained-glass/author-stained-glass-sample;author-stained-glass-sample;Author Stained Glass Sample;Услуга — витраж;;
+services/stained-glass/stained-glass-detail-06;stained-glass-detail-06;Stained Glass Detail 06;Услуга — витраж;;
+services/author-collections;;Авторские коллекции;;Серии декоративных элементов для единого стиля пространства;
+services/author-collections/glass-vessels-collection;glass-vessels-collection;Glass Vessels Collection;Услуга — авторские коллекции;;
+services/author-collections/glass-stone-sculpture;glass-stone-sculpture;Glass Stone Sculpture;Услуга — авторские коллекции;;
+services/light-compositions;;Объёмно-пространственные композиции со светом;;Арт-объекты, интегрированные в архитектуру и освещение;
+services/light-compositions/floral-glass-chandelier;floral-glass-chandelier;Floral Glass Chandelier;Услуга — композиции со светом;;
+services/light-compositions/amber-backlit-panels;amber-backlit-panels;Amber Backlit Panels;Услуга — композиции со светом;;
+services/light-compositions/decorative-fountain-element;decorative-fountain-element;Decorative Fountain Element;Услуга — композиции со светом;;
+process/title;;Полный цикл — под одной ответственностью;;;
+process/intro;;;;;Как руководитель проекта я отвечаю за каждый этап: концепцию, подбор и исполнение в материале, координацию исполнителей, контроль сроков и приёмку результата. Вы получаете предсказуемый результат в согласованные по каждому этапу сроки — без потери контроля над бюджетом.
+process/thesis_1;;Концепция;;Погружение в архитектуру пространства, эскиз и согласование идеи;
+process/thesis_2;;Материал и команда;;Подбор долговечных материалов, координация узкопрофильных исполнителей и смежников;
+process/thesis_3;;Сроки и приёмка;;Контроль графика, прозрачная отчётность, финальная приёмка объекта;
+process/idea-and-concept;;Идея и концепция;шаг 1;Эскиз, мудборд, привязка к архитектуре;
+process/idea-and-concept/stained-glass-design-window;stained-glass-design-window;Stained Glass Design Window;Процесс — идея и концепция;;
+process/idea-and-concept/expo-85-concept-board;expo-85-concept-board;Expo 85 Concept Board;Процесс — идея и концепция;;
+process/material;;Материал;шаг 2;Образцы фактур, согласование бюджета;
+process/material/surface-texture-samples;surface-texture-samples;Surface Texture Samples;Процесс — материал;;
+process/material/glass-metal-material-samples;glass-metal-material-samples;Glass Metal Material Samples;Процесс — материал;;
+process/execution;;Исполнение;шаг 3;Координация мастеров, строителей, электриков;
+process/execution/on-site-stained-glass-installation;on-site-stained-glass-installation;On-site Stained Glass Installation;Процесс — исполнение;;
+process/execution/large-format-work-in-progress;large-format-work-in-progress;Large Format Work in Progress;Процесс — исполнение;;
+process/execution/workspace-execution-detail;workspace-execution-detail;Workspace Execution Detail;Процесс — исполнение;;
+process/acceptance;;Приёмка;шаг 4;Контроль качества, сдача объекта в срок;
+process/acceptance/completed-vitrazh-interior;completed-vitrazh-interior;Completed Vitrazh Interior;Процесс — приёмка;;
+process/acceptance/completed-architectural-stained-glass;completed-architectural-stained-glass;Completed Architectural Stained Glass;Процесс — приёмка;;
+portfolio/title;;Избранные работы;;;
+portfolio/lead;;;;Проекты для частных и общественных пространств — нажмите на работу, чтобы узнать подробнее;
+portfolio/cta;;Есть похожая задача?;;Расскажите о ней — подготовлю предложение.;
+featured-works/abstract-stained-glass-facade;abstract-stained-glass-facade;Abstract Stained Glass Facade;Избранные работы;;
+featured-works/interior-monumental-solution;interior-monumental-solution;Interior Monumental Solution;Избранные работы · частное пространство;;
+featured-works/mosaic-assembly-featured;mosaic-assembly-featured;Mosaic Assembly;Избранные работы · мозаика;;
+featured-works/author-glass-objects;author-glass-objects;Author Glass Objects;Избранные работы · коллекция;;
+featured-works/expo-85-tsukuba-glass;expo-85-tsukuba-glass;Expo 85 Tsukuba;Япония · 1985 · художественное стекло;;
+featured-works/vitrazh-botanical-ornament;vitrazh-botanical-ornament;Vitrazh Botanical Ornament;Избранные работы · витраж;;
+featured-works/urban-serenity-stained-glass;urban-serenity-stained-glass;Urban Serenity Stained Glass;Избранные работы · витраж;;
+featured-works/glass-stone-sculpture-featured;glass-stone-sculpture-featured;Glass and Stone Sculpture;Избранные работы · авторский объект;;
+featured-works/amber-light-panels-featured;amber-light-panels-featured;Amber Light Panels;Избранные работы · свет;;
+featured-works/mural-portrait-featured;mural-portrait-featured;Mural Portrait;Избранные работы · роспись;;
+featured-works/vitrazh-birds-composition;vitrazh-birds-composition;Vitrazh Birds Composition;Избранные работы · витраж;;
+about/title;;Обо мне;;;
+about/name;;Тамара Владимировна Сандомирова;;;
+about/p1;;;;;Я отвечаю за каждый этап лично — от первого эскиза до финальной приёмки. Это гарантирует целостность замысла и предсказуемый результат для заказчика.
+about/p2;;;;;Работаю с общественными и частными пространствами: от локальных акцентов до масштабных монументальных программ. Член Московского Союза художников.
+about/stat_1;;35+;лет в монументальном искусстве;;
+about/stat_2;;Expo 85;участник мировой выставки, Япония;;"Pavilion Australia / Expo
+
+Всемирная выставка Экспо 85 город Брезбен. Австралия. Советский павильон «Отдых в эпоху технологии».
+
+Заказчик: Министерство стекольной промышленности СССР
+
+Задача: Создание единого дизайн-пространства для авторских объектов из цветного стекла в гутной технике. Необходимо учесть тематику выставки: природа, экология окружающей среды, создав монументальные объекты в цветном стекле. Разместить объекты в круговом бассейне, отделяющем подиум для модных показов от проходной зоны. Показать возможности стекольного производства, работу советских мастеров стеклодувов.
+
+Особенности реализации: Увеличенные размеры частей объектов, сложности в работе с большими массами расплавленного стекла при отливке в чугунные формы, количество объектов. Окраска стекла в массе редкоземельными красителями, увеличение времени отжига изделий, сжатые сроки исполнения.
+
+Результат: продуманный интерьер со встроенными авторскими объектами в форме осенних листьев из яркого цветного стекла в круговом бассейне с подсветкой; шары из бесцветного стекла, напоминающие капли воды; зонирование проходной зоны.
+"
+about/stat_3;;5;направлений: от росписи до света;;
+about/author-photo-placeholder;author-photo-placeholder;Портрет автора;Обо мне;;
+awards/title;;Признание профессионального сообщества;;;
+professional-recognition/expo-85-recognition-board;expo-85-recognition-board;Expo 85 Цукuba Япония;1985 · объекты из цветного хрусталя;;"Всемирная выставка. Экспо 85 Цукуба. Япония. Советский павильон. «Развитие Науки и технологии для улучшения быта человека».
+Заказчик: Министерство стекольной промышленности СССР 
+Задача: Создание единого дизайн – пространства для авторских объектов из цветного стекла в гутной технике выдувания в форму. Необходимо учесть тематику выставки, показать мастерство советских  мастеров стеклодувов ,возможности производства декоративного стекла.
+Особенности реализации: Увеличенные размеры объектов, количество объект, сложное меж стекольное  декорирование, сжатые сроки исполнения, нестандартные решения в нанесении декоративных слоёв. 
+Результат: Удалось достичь ярких, разнообразных цветов   в декоре, раскрыть тему «японских фонарей» вписав их в объекты архитектуры малых форм, ярко декорированных в сложной технике выдувания в форму, что позволило удачно вписать их в общественные зоны выставочного пространства павильона. "
+professional-recognition/diploma-copy-01;diploma-copy-01;Диплом участника выставки;Союз художников;;
+professional-recognition/professional-award-certificate;professional-award-certificate;Почётная грамота;Профессиональное сообщество;;"ГБУЗ МО «Московский областной перинатальный центр» г. Балашиха.
+Комплексный дизайн-проект интерьеров помещений, входной группы, фасада здания. Ландшафтный дизайн территории. 1916 г.
+Заказчик: ГБУЗ МО «Московский областной перинатальный центр» г. Балашиха
+Задача: Создание единого дизайн – пространства от интерьеров до ландшафта прилегающей территории, которое ежедневно принимает тысячи людей в один из самых важных периодов их жизни проработка эргономики доступности среды для пациентов, персонала и маломобильных групп.   Проработать навигацию, подобрать  практичные и безопасные материалы, создание авторских люстр для холлов входной группы
+Особенности реализации: медицинские пространства безопасность, тишина, навигация, мебель, сроки, координация смежников, нестандартные решения
+Заказчик получил: Современный продуманный  интерьер  навигация и эргономика общественных зон. Единый стиль на вcей площади, акцент на натуральные материалы 
+
+"
+professional-recognition/Pavilion_australia;Pavilion_australia;Pavilion Australia / Expo;;;"Всемирная выставка Экспо 85 город Брезбен. Австралия. Советский павильон «Отдых в эпоху технологии».
+Заказчик: Министерство стекольной промышленности СССР
+Задача: Создание единого дизайн-пространства для авторских объектов из цветного стекла в гутной технике. Необходимо учесть тематику выставки: природа, экология окружающей среды, создав монументальные объекты в цветном стекле. Разместить объекты в круговом бассейне, отделяющем подиум для модных показов от проходной зоны. Показать возможности стекольного производства, работу советских мастеров стеклодувов.
+Особенности реализации: Увеличенные размеры частей объектов, сложности в работе с большими массами расплавленного стекла при отливке в чугунные формы, количество объектов. Окраска стекла в массе редкоземельными красителями, увеличение времени отжига изделий, сжатые сроки исполнения.
+Результат: продуманный интерьер со встроенными авторскими объектами в форме осенних листьев из яркого цветного стекла в круговом бассейне с подсветкой; шары из бесцветного стекла, напоминающие капли воды; зонирование проходной зоны."
+professional-recognition/landshaft;landshaft;Ландшафтный дизайн. Архитектура малых форм.;;Комплексные ландшафтные проекты общественных, частных пространств, парков, придворовых территорий.;"Заказчик: Государственные учреждения, частный заказчик
+Задача: Создание единого дизайн-пространства от эргономичного сочетания интерьера с ландшафтным дизайном, устройством фонтанов, архитектуры малых форм в сочетании с посадками крупномерных деревьев, цветов и кустарников. Решение ландшафтного освещения.
+Особенности реализации: фонтаны, сухие ручьи над дренажной системой, формы и декоративные элементы фасадов, МАФ для сбора верховодки, зимние посадки крупномеров, координация смежников, ландшафтное освещение, декоративное ограждение.
+Результат: гармоничная завершённая среда; решены утилитарные задачи; улучшен микроклимат; пространственное зонирование и МАФ; палитра за счёт смены цветения."
+contact/title;;Если у вас есть идея проекта — готова обсудить план;;;
+contact/lead;;;;;Расскажите о цели, задачах, площади и сроках. Приложите вспомогательные файлы — подготовлю предложение.
+contact/name;;Тамара Владимировна Сандомирова;Художник-монументалист · руководитель проектов;;
+contact/phone;;+7 (900) 000-00-00;tel:+79000000000;;
+contact/email;;info@example.ru;mailto:info@example.ru;;
+contact/messengers;;Telegram · WhatsApp;;уточнить контакты;
+contact/form_hint;;;;Отвечу в течение одного рабочего дня;
+contact/privacy;;;;;Нажимая «Отправить», вы соглашаетесь на обработку персональных данных.
+footer/name;;Тамара Владимировна Сандомирова;Художник-монументалист · руководитель проектов;;
+footer/year;;© 2026;;;

@@ -1,0 +1,23 @@
+# Fragment for /etc/caddy/Caddyfile
+# Static root: /var/www/sandomirova.anspec.ru
+
+sandomirova.anspec.ru {
+	encode gzip
+
+	@static path *.css *.js *.jpg *.jpeg *.png *.webp *.svg *.txt *.woff2
+	handle @static {
+		root * /var/www/sandomirova.anspec.ru
+		file_server
+	}
+
+	handle {
+		root * /var/www/sandomirova.anspec.ru
+		try_files {path} /index.html
+		file_server
+	}
+
+	header {
+		X-Content-Type-Options nosniff
+		Referrer-Policy strict-origin-when-cross-origin
+	}
+}
